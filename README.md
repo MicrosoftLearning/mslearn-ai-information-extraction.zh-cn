@@ -1,3 +1,5 @@
+**⚠️ This GitHub repo will retire on 30th December 2025.** 
+
 # AI 支持的信息提取
 <!-- Change the title above as appropriate -->
 
